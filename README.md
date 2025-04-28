@@ -4,4 +4,6 @@ Requirements: ScriptHookRDR2 V2 https://www.nexusmods.com/reddeadredemption2/mod
 
 Installation: Download relase and put copy paste deye.asi file into your main game folder.
 
-Compilation requires Script Hook SDK https://www.dev-c.com/gtav/scripthookv/![Bez tytułu](https://github.com/user-attachments/assets/0a0a04dd-b07f-4249-a0c9-87977393f5af)
+Compilation requires Script Hook SDK https://www.dev-c.com/gtav/scripthookv/
+
+![Bez tytułu](https://github.com/user-attachments/assets/b14c9559-531e-4d38-912f-c2313c11cb39)
