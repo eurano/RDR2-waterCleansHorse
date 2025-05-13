@@ -3,6 +3,7 @@
 #include "types.h"
 #include "nativeCaller.h"
 #include "enums.h"
+#include "main.h"
 
 // List of "dirty" water types we DON'T want
 const char* dirtyWaterZones[] = {
